@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/partimag/react-project.git/static/css/main.e64b430f.css",
+    "main.js": "/partimag/react-project.git/static/js/main.acac0da1.js",
+    "static/js/787.28cb0dcd.chunk.js": "/partimag/react-project.git/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/partimag/react-project.git/index.html",
+    "main.e64b430f.css.map": "/partimag/react-project.git/static/css/main.e64b430f.css.map",
+    "main.acac0da1.js.map": "/partimag/react-project.git/static/js/main.acac0da1.js.map",
+    "787.28cb0dcd.chunk.js.map": "/partimag/react-project.git/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e64b430f.css",
+    "static/js/main.acac0da1.js"
+  ]
+}
